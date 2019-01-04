@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20180511</CreaDate><CreaTime>14495900</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\ExtractByMask" Date="20180511" Time="144959">ExtractByMask LST_cuenca.tif Cuenca C:\Users\Kim\Desktop\GmE2018_inc\210\lab8\CUENCA\landsat8_cuenca\final_data\LST_cuenca.tif</Process></lineage></DataProperties></Esri></metadata>
